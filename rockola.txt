@@ -1,4 +1,8 @@
 esto es una prueba para empezar el sprint 3
 debo realizar el sprint 3
 este texto debe vizulizarse en GitHub Destok
+<<<<<<< Updated upstream
 Crear base de datos
+=======
+Este es un ejemplo
+>>>>>>> Stashed changes
